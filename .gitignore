@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/retotecnico-cobol
+/ReporteTransacciones/obj/Debug/net8.0
+/ReporteTransacciones/obj/Release/net8.0
+/ReporteTransacciones/obj
+/ReporteTransacciones/bin/Debug/net8.0
